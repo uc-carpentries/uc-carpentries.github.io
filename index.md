@@ -5,4 +5,4 @@
 layout: home
 ---
 
-HOME PAGE
+This is the home page, guess we should put a statement about who we are and why we exist or something like that
