@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: UChicago Carpentries 
-email: ali6@uchciago.edu
+email: uccarpentries@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A site for organizing the University of Chicago's Carpentries instructors
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: CivicAngela
-github_username:  angela-li
+twitter_username: UCCarpentries
+github_username:  uc-carpentries
 
 # Build settings
 markdown: kramdown
