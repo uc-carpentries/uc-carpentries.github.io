@@ -22,3 +22,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Arjun Biddanda
 
 Arjun is a 5th year PhD student in Human Genetics. He has been a Software Carpentry instructor for 2 years and has taught primarily workshops for the biological sciences divisions. When not focusing on his research on human population genetics, he can be found working on puzzles or playing tennis. 
+
+
+<img src="/static/img/briana-mittleman.png" alt="Briana Mittleman" height="200px">
+
+#### Briana Mittleman
+
+Briana is a graduate student at University of Chicago in the Gilad Lab. Her work includes using natural variation in the human genome to understand gene regulation. Briana became an intructor in Summer 2018 and has been teaching workshops in the BSD since. Follow Briana on twitter @brimittleman and check out her github at https://github.com/brimittleman
+
+
+
