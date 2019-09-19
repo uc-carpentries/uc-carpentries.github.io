@@ -5,4 +5,12 @@
 layout: home
 ---
 
-This is the home page, guess we should put a statement about who we are and why we exist or something like that
+We are a group of students and staff members at the University of Chicago who teach foundational coding and data science skills to researchers at the university. We have been teaching two-day research computing bootcamps at the University of Chicago since 2014. 
+
+We started as an initiative of the Biological Sciences Division, but our trained instructors now span from Biological Sciences to the Social Sciences and Physical Sciences Divisions. Our instructors undergo a rigorous training process to become officially certified ["Carpentries instructors"](https://carpentries.org/about/), and we have taught over 15 workshops between us. 
+
+- If you are interested in **requesting a workshop for your department**, please fill out the Request a Workshop form.
+
+- If you are interested in **receiving training to teach workshops** on Shell, Git, R, Python, and more, please see the Get Involved page.
+
+- If you are currently an instructor and **looking for resources for your workshops**, please see the For Instructors page.
