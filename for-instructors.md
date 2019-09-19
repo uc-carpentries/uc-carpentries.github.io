@@ -18,7 +18,11 @@ Are you a current Carpentries instructor based at the University of Chicago? Wel
 
 Here are a few resources that we know of:
 
-- **Research Computing Center [Workshops and Training](https://rcc.uchicago.edu/support-and-services/workshops-and-training)
+- **[Research Computing Center](https://rcc.uchicago.edu/support-and-services/workshops-and-training)**: offers research and training throughout the year on various computing topics
 - **UChicago-KISS**: social science graduate student organization to support with learning programming and research methods. Please contact Colin Quirk if you are interested in participating in the group.
 - **R Bar at Harris School of Public Policy**: student-run support for R-related needs, mostly for Harris students
 - **[R-Ladies Chicago](https://rladieschicago.org/) / [Py-Ladies Chicago](https://www.meetup.com/Chicago-PyLadies/)**: Monthly Meetups for women and gender minorities in the area
+
+**How do I get a Carpentries sticker for my laptop?**
+
+Come to a Carpentries Club meeting to get a sticker!
