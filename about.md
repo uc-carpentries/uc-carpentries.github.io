@@ -26,7 +26,7 @@ Colin is a PhD student in Psychology conducting research on visual working memor
 
 #### Arjun Biddanda
 
-[Arjun](aabiddanda.github.io) is a 5th year PhD student in Human Genetics. His research focuses on developing both theory and practical statistical methods for human population genetics. He has been a Software Carpentry instructor for 2 years and has taught primarily workshops for the biological sciences divisions. When not focusing on his research, he can be found working on puzzles or playing tennis. You can find him on Twitter at [@aabiddanda](https://twitter.com/aabiddanda).
+[Arjun](https://aabiddanda.github.io) is a 5th year PhD student in Human Genetics. His research focuses on developing both theory and practical statistical methods for human population genetics. He has been a Software Carpentry instructor for 2 years and has taught primarily workshops for the biological sciences divisions. When not focusing on his research, he can be found working on puzzles or playing tennis. You can find him on Twitter at [@aabiddanda](https://twitter.com/aabiddanda).
 </div>
 
 <div style="padding: 2em 0 2em 0" markdown="1">
