@@ -29,7 +29,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Briana Mittleman
 
-Briana is a graduate student at University of Chicago in the Gilad Lab. Her work includes using natural variation in the human genome to understand gene regulation. Briana became an intructor in Summer 2018 and has been teaching workshops in the BSD since. Follow Briana on twitter [@brimittleman](https://twitter.com/brimittleman) and check out her github at https://github.com/brimittleman
+Briana is a graduate student at University of Chicago in the Gilad Lab. Her work includes using natural variation in the human genome to understand gene regulation. Briana became an intructor in Summer 2018 and has been teaching workshops in the BSD since. Follow Briana on twitter [@brimittleman](https://twitter.com/brimittleman) and check out her [github](https://github.com/brimittleman).
 
 <img src="/static/img/rochelle-terman.jpg" alt="Rochelle Terman" style="float: left; padding-right: 2em" height="250px">
 
