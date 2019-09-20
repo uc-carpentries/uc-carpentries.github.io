@@ -30,5 +30,11 @@ Arjun is a 5th year PhD student in Human Genetics. He has been a Software Carpen
 
 Briana is a graduate student at University of Chicago in the Gilad Lab. Her work includes using natural variation in the human genome to understand gene regulation. Briana became an intructor in Summer 2018 and has been teaching workshops in the BSD since. Follow Briana on twitter [@brimittleman](https://twitter.com/brimittleman) and check out her github at https://github.com/brimittleman
 
+<img src="/static/img/rochelle-terman.jpg" alt="Rochelle Terman" height="200px">
+
+#### Rochelle Terman
+
+Rochelle is a Provost’s Postdoctoral Fellow in the Department of Political Science at the University of Chicago, where she’ll begin as Assistant Professor in Fall 2020. She has been a Software Carpentry for several years, and teaches computational social science at both the undergraduate and graduate levels. Her teaching materials can be found on her [github page](https://github.com/rochelleterman).
+
 
 
