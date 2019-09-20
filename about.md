@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="/static/img/angela-li.jpg" alt="Angela Li" height="200px" >
+<img src="/static/img/angela-li.jpg" alt="Angela Li" style="float: left; padding-right: 2em;" height="250px" >
 
 #### Angela Li
 
@@ -12,10 +12,12 @@ Angela is a research staff member at the Center for Spatial Data Science, where 
 
 <img src="/static/img/colin-quirk.png" alt="Colin Quirk" height="200px">
 
+<img src="/static/img/colin-quirk.png" alt="Colin Quirk" style="float: left; padding-right: 2em" height="250px">
 #### Colin Quirk
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+<img src="/static/img/arjun-biddanda.jpg" alt="Arjun Biddanda" style="float: left; padding-right: 2em" height="250px">
 
 <img src="/static/img/arjun-biddanda.jpg" alt="Arjun Biddanda" height="200px">
 
@@ -23,13 +25,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 [Arjun](aabiddanda.github.io) is a 5th year PhD student in Human Genetics. His research focuses on developing both theory and practical statistical methods for human population genetics. He has been a Software Carpentry instructor for 2 years and has taught primarily workshops for the biological sciences divisions. When not focusing on his research, he can be found working on puzzles or playing tennis. You can find him on Twitter at [@aabiddanda](https://twitter.com/aabiddanda).
 
-<img src="/static/img/briana-mittleman.png" alt="Briana Mittleman" height="200px">
+<img src="/static/img/briana-mittleman.png" alt="Briana Mittleman" style="float: left; padding-right: 2em" height="250px">
 
 #### Briana Mittleman
 
 Briana is a graduate student at University of Chicago in the Gilad Lab. Her work includes using natural variation in the human genome to understand gene regulation. Briana became an intructor in Summer 2018 and has been teaching workshops in the BSD since. Follow Briana on twitter [@brimittleman](https://twitter.com/brimittleman) and check out her github at https://github.com/brimittleman
 
-<img src="/static/img/rochelle-terman.jpg" alt="Rochelle Terman" height="200px">
+<img src="/static/img/rochelle-terman.jpg" alt="Rochelle Terman" style="float: left; padding-right: 2em" height="250px">
 
 #### Rochelle Terman
 
