@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div style="padding: 2em 0 2em 0" markdown="1">
-<img src="/static/img/angela-li.jpg" alt="Angela Li" style="float: left; padding-right: 2em;" height="250px" >
+<img src="/assets/img/angela-li.jpg" alt="Angela Li" style="float: left; padding-right: 2em;" height="250px" >
 
 #### Angela Li
 
@@ -14,7 +14,7 @@ Angela is a research staff member at the Center for Spatial Data Science, where 
 
 
 <div style="padding: 2em 0 5em 0" markdown="1">
-<img src="/static/img/colin-quirk.png" alt="Colin Quirk" style="float: left; padding-right: 2em" height="250px">
+<img src="/assets/img/colin-quirk.png" alt="Colin Quirk" style="float: left; padding-right: 2em" height="250px">
 
 #### Colin Quirk
 
@@ -22,7 +22,7 @@ Colin is a PhD student in Psychology conducting research on visual working memor
 </div>
 
 <div style="padding: 2em 0 2em 0" markdown="1">
-<img src="/static/img/arjun-biddanda.jpg" alt="Arjun Biddanda" style="float: left; padding-right: 2em" height="250px">
+<img src="/assets/img/arjun-biddanda.jpg" alt="Arjun Biddanda" style="float: left; padding-right: 2em" height="250px">
 
 #### Arjun Biddanda
 
@@ -30,7 +30,7 @@ Colin is a PhD student in Psychology conducting research on visual working memor
 </div>
 
 <div style="padding: 2em 0 2em 0" markdown="1">
-<img src="/static/img/briana-mittleman.png" alt="Briana Mittleman" style="float: left; padding-right: 2em" height="250px">
+<img src="/assets/img/briana-mittleman.png" alt="Briana Mittleman" style="float: left; padding-right: 2em" height="250px">
 
 #### Briana Mittleman
 
@@ -38,7 +38,7 @@ Briana is a graduate student at University of Chicago in the Gilad Lab. Her work
 </div>
 
 <div style="padding: 2em 0 2em 0" markdown="1">
-<img src="/static/img/rochelle-terman.jpg" alt="Rochelle Terman" style="float: left; padding-right: 2em" height="250px">
+<img src="/assets/img/rochelle-terman.jpg" alt="Rochelle Terman" style="float: left; padding-right: 2em" height="250px">
 
 #### Rochelle Terman
 
