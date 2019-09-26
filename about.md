@@ -21,7 +21,7 @@ Angela is a research staff member at the Center for Spatial Data Science, where 
 Colin is a PhD student in Psychology conducting research on visual working memory. He became a Carpentries instructor after leading an R workshop with Angela Li in 2019. He also leads KISS, a student group for helping social science graduate students learn new technical skills. For more info about Colin, check out [his website](http://colinquirk.com).
 </div>
 
-<div style="padding: 2em 0 2em 0" markdown="1">
+<div style="padding: 2em 0 3em 0" markdown="1">
 <img src="/assets/img/arjun-biddanda.jpg" alt="Arjun Biddanda" style="float: left; padding-right: 2em" height="250px">
 
 #### Arjun Biddanda
@@ -29,7 +29,7 @@ Colin is a PhD student in Psychology conducting research on visual working memor
 [Arjun](https://aabiddanda.github.io) is a 5th year PhD student in Human Genetics. His research focuses on developing both theory and practical statistical methods for human population genetics. He has been a Software Carpentry instructor for 2 years and has taught primarily workshops for the biological sciences divisions. When not focusing on his research, he can be found working on puzzles or playing tennis. You can find him on Twitter at [@aabiddanda](https://twitter.com/aabiddanda).
 </div>
 
-<div style="padding: 2em 0 2em 0" markdown="1">
+<div style="padding: 2em 0 4em 0" markdown="1">
 <img src="/assets/img/briana-mittleman.png" alt="Briana Mittleman" style="float: left; padding-right: 2em" height="250px">
 
 #### Briana Mittleman
