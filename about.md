@@ -45,3 +45,10 @@ Briana is a graduate student at University of Chicago in the Gilad Lab. Her work
 Rochelle is a Provost’s Postdoctoral Fellow in the Department of Political Science at the University of Chicago, where she’ll begin as Assistant Professor in Fall 2020. She has been a Software Carpentry for several years, and teaches computational social science at both the undergraduate and graduate levels. Her teaching materials can be found on her [github page](https://github.com/rochelleterman).
 </div>
 
+<div style="padding: 2em 0 2em 0" markdown="1">
+<img src="/assets/img/lilian-huang.jpg" alt="Lilian Huang" style="float: left; padding-right: 2em;" height="250px" >
+
+#### Lilian Huang
+
+Lilian is a graduate student in the MS program for Computational Analysis and Public Policy, studying the intersection of computer science and policy work. She became a Carpentries instructor in 2019 after assisting with the R for Social Scientists workshop. You can check out her [personal website](https://lilianhj.netlify.com) and her [Twitter](https://twitter.com/nailhauling).
+</div>
