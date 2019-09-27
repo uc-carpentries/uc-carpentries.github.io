@@ -7,6 +7,12 @@
 
     {%- include header.html -%}
 
+    {% if page.layout == 'home' %}
+      <div class="banner">
+        <img src="/assets/img/banner.jpg" />
+      </div>
+    {% endif %}
+
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
