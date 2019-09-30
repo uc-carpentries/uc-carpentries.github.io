@@ -5,6 +5,8 @@
 layout: home
 ---
 
+![banner](/assets/img/banner.jpg)
+
 We are a group of students and staff members at the University of Chicago who teach foundational coding and data science skills to researchers at the university. We have been teaching two-day research computing bootcamps at the University of Chicago since 2014.
 
 We started as an initiative of the Biological Sciences Division, but our trained instructors are based in the Biological Sciences, Social Sciences, and Physical Sciences Divisions. Our instructors undergo a rigorous training process to become officially certified [Carpentries instructors](https://carpentries.org/about/). We have taught over 15 workshops over the past 5 years. 
