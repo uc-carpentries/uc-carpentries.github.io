@@ -52,3 +52,12 @@ Rochelle is a Provost’s Postdoctoral Fellow in the Department of Political Sci
 
 Lilian is a graduate student in the MS program for Computational Analysis and Public Policy, studying the intersection of computer science and policy work. She became a Carpentries instructor in 2019 after assisting with the R for Social Scientists workshop. You can check out her [personal website](https://lilianhj.netlify.com) and her [Twitter](https://twitter.com/nailhauling).
 </div>
+
+<div style="padding: 2em 0 2em 0" markdown="1">
+<img src="/assets/img/nicholas-knoblauch.jpg" alt="Nicholas Knoblauch" style="float: left; padding-right: 2em;" height="250px" >
+
+#### Nicholas Knoblauch
+
+[Nick](https://knobla.com) is a 6th year PhD student in the Genetics, Genomics and Systems Biology PhD program at the University of Chicago in the lab of [Xin He](https://xinhelab.org).  His research focuses on methods development for problems in statistical molecular genetics.  He has been a Software Carpentry instructor for the past 2 years and a Software Carpetnry helper for four years before that.  To learn more about the kind of software Nick likes to hack on, check out his [Github](https://github.com/CreRecombinase), he's also on [Twitter](https://twitter.com/nwknobla).
+</div>
+
