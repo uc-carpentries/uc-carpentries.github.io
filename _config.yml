@@ -28,6 +28,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+header_pages:
+  - about.md
+  - calendar.md
+  - for-instructors.md
+  - request-form.md
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
