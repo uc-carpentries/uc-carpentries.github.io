@@ -31,6 +31,8 @@ plugins:
 header_pages:
   - about.md
   - calendar.md
+  - code-of-conduct.md
+  - get-involved.md
   - for-instructors.md
   - request-form.md
 
