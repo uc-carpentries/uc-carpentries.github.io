@@ -7,12 +7,14 @@ permalink: /for-instructors/
 Are you a current Carpentries instructor based at the University of Chicago? Welcome to the community! We ask that you do the following:
 
 - Submit a pull request with your information to the [About](https://uc-carpentries.github.io/about/) page
-- Consider attending monthly [Carpentries Club meetings](https://uc-carpentries.github.io/get-involved/)
+- Attend monthly [Carpentries Club meetings](https://uc-carpentries.github.io/get-involved/)
 - Join our Slack to connect with other instructors at the university - email us at uccarpentries@gmail.com to be added
 
-## Resources for Instructors
+## FAQ
 
-# FAQ
+**I am an first-time lead instructor and wondering where to start with getting a workshop setup. Do you have a good set of tips?**
+
+We have developed a set of tips and a [workshop checklist](/organizing-workshops/) that we think is useful for new instructors. If you have any suggestions we would love to include them! 
 
 **How can workshop attendees can continue their learning at the University of Chicago after the workshop is done?** 
 
