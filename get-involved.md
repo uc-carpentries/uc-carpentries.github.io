@@ -6,10 +6,10 @@ permalink: /get-involved/
 
 Interested in participating in the Carpentries community on campus? Join the UChicago Carpentries Club!
 
-We currently meet on the third Monday of the month at 3:30pm in Searle 236. Our upcoming meetings are:
+We currently meet on the 4th Wednesday of the month at noon in Searle 236. Find upcoming meetings on our [Calendar](https://uc-carpentries.github.io/calendar/). Our upcoming meetings are:
 
-- **October 21, 2019**: Recap of fall Software Carpentry and Data Carpentry workshops
-- **November 18, 2019**: How to organize a workshop in your department, taught by Arjun and Briana
+- **February 26, 2020**
+- **March 25, 2020**
 
 Please contact uccarpentries@gmail.com to be added to our instructor Slack channel!
 
