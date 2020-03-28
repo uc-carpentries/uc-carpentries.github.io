@@ -61,3 +61,8 @@ Lilian is a graduate student in the MS program for Computational Analysis and Pu
 [Nick](https://knobla.com) is a 6th year PhD student in the Genetics, Genomics and Systems Biology PhD program at the University of Chicago in the lab of [Xin He](https://xinhelab.org).  His research focuses on methods development for problems in statistical molecular genetics.  He has been a Software Carpentry instructor for the past 2 years and a Software Carpetnry helper for four years before that.  To learn more about the kind of software Nick likes to hack on, check out his [Github](https://github.com/CreRecombinase), he's also on [Twitter](https://twitter.com/nwknobla).
 </div>
 
+<div style="padding: 2em 0 2em 0" markdown="1">
+<img src="/assets/img/will-ngiam.jpg" alt="William Ngiam" style="float: left; padding-right: 2em" height="250px">
+
+#### William Ngiam
+William is a postdoctoral researcher in the Awh/Vogel Lab at the University of Chicago, studying the visual working memory system and its neural signatures. He became a Data Carpentry instructor in 2020 in the hopes of improving data practices amongst scientists, enabling reproducible research. He also created the [ReproducibiliTea](https://reproducibilitea.org/) journal club at the University of Chicago to encourage open science. You can follow William on [Twitter](https://twitter.com/will_ngiam) or [his website](https://williamngiam.github.io).
