@@ -66,3 +66,11 @@ Lilian is a graduate student in the MS program for Computational Analysis and Pu
 
 #### William Ngiam
 William is a postdoctoral researcher in the Awh/Vogel Lab at the University of Chicago, studying the visual working memory system and its neural signatures. He became a Data Carpentry instructor in 2020 in the hopes of improving data practices amongst scientists, enabling reproducible research. He also created the [ReproducibiliTea](https://reproducibilitea.org/) journal club at the University of Chicago to encourage open science. You can follow William on [Twitter](https://twitter.com/will_ngiam) or [his website](https://williamngiam.github.io).
+
+<div style="padding: 2em 0 2em 0" markdown="1">
+<img src="/assets/img/zach-miller.png" alt="Zach Miller" style="float: left; padding-right: 2em" height="250px">
+
+#### Zach Miller
+Zach is a 4th year PhD student in Ecology & Evolution. His work in the [Allesina Lab](https://allesinalab.uchicago.edu/) is aimed at developing mathematical and computational tools and models to study species-rich ecological communities. He became a Software Carpentry instructor in 2020, after helping with Carpentries workshops and teaching other courses on programming and statistics at the University of Chicago. To learn more or get in touch, check out his [website](https://zacharyrmiller.netlify.app/).
+
+
